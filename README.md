@@ -4,4 +4,4 @@
 
 **Search Term:** dslr cameras  
 
-**Project Website:** For additional information on the project click [here](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_04)
+**Project Website:** For additional information on project guidelines, click [here](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_04)
